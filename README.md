@@ -1,4 +1,4 @@
-# ESP8266-OLED-Wetterstation-Weather-station-
+# ESP8266-OLED-Wetterstation-Weather-station
 
 Weatherdisplay getting data from Thingspeak. 
 
